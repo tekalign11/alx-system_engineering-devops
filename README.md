@@ -1,1 +1,1 @@
-My readme on shell basics
+scripts help to creat files

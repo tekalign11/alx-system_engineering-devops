@@ -1,2 +1,2 @@
 #!/bin/bash
-agrep -A 3 "root" /etc/passwd
+agrep -A 3 "root"/etc/passwd

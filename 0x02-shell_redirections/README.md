@@ -1,1 +1,1 @@
-my readme for shell redirection
+printing content

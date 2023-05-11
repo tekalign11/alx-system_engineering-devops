@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R ga+x .
+chmod +X .

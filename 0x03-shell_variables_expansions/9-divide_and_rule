@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $($printenv POWER / $printenv DIVIDE)
+echo $(($printenv POWER / $printenv DIVIDE)

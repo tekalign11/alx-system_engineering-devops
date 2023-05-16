@@ -1,2 +1,2 @@
 #!/bin/bash
-printf NUM="%.2f\n"
+printf export NUM="%.2f\n"

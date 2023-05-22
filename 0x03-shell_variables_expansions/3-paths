@@ -1,2 +1,2 @@
 #!/bin/bash
-echo tr -c -d '/' | wc -c
+echo tr -d | wc -c
